@@ -15,7 +15,7 @@ debugpy==1.5.0
 decorator==5.1.0
 defusedxml==0.7.1
 entrypoints==0.3
-Flask @ file:///tmp/build/80754af9/flask_1632776664051/work
+Flask==2.0.2
 Flask-Cors @ file:///tmp/build/80754af9/flask-cors_1609957731919/work
 htmlmin==0.1.12
 idna==2.10
